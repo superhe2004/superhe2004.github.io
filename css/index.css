@@ -23192,6 +23192,10 @@ a.categoryButton.green {
   background: linear-gradient(to right, #18e7ae, #1eebeb);
   background-size: 200%;
 }
+a.categoryButton.yello {
+  background: linear-gradient(to right, #d6b56e, #8ad12e);
+  background-size: 200%;
+}
 
 .categoryItem:hover {
   width: 50%;
